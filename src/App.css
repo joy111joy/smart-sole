@@ -179,11 +179,11 @@ nav a:hover {
   justify-content: flex-start;
   align-items: flex-start;
 }
-.scrollbox h3 {
+.scrollbox h4 {
   margin-top: -15px;
   font-size: 10pt;
 }
-.scrollbox h2 {
+.scrollbox h3 {
   font-size: 15pt;
 }
 .scrollimgs {
@@ -205,11 +205,15 @@ nav a:hover {
 
 
 #HomeWomensSection {
-  margin-top: 500000px;
+  margin-top: 50px;
 }
 #WomenScroll {
   display: flex;
   overflow-x: scroll;
   width: 100%;
-  background-color: blue;
+}
+#HomeMensSection h2, #HomeWomensSection h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2em;
+  margin-left: 70px;
 }

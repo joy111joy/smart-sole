@@ -12,8 +12,8 @@ const Home = () => {
                   {shoesData.product.filter(item => parseInt(item.productId) > 3500).map((item, index) => (
                       <div className='scrollbox' key={index}>
                           <img src={item.image} alt="" className='scrollimgs'/>
-                          <h2>{item.name}</h2>
-                          <h3>${item.price}</h3>
+                          <h3>{item.name}</h3>
+                          <h4>${item.price}</h4>
                       </div>
                   ))}
               </div>
@@ -24,8 +24,8 @@ const Home = () => {
                   {shoesData.product.filter(item => parseInt(item.productId) < 3500).map((item, index) => (
                       <div className='scrollbox' key={index}>
                           <img src={item.image} alt="" className='scrollimgs'/>
-                          <h2>{item.name}</h2>
-                          <h3>${item.price}</h3>
+                          <h3>{item.name}</h3>
+                          <h4>${item.price}</h4>
                       </div>
                   ))}
               </div>
