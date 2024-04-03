@@ -1,0 +1,141 @@
+{
+    "product": [
+      {
+        "productId": "3200",
+        "image": ".src/images/clarks_laurieann.jpg ",
+        "brand": "Clarks",
+        "name": "Laurieann Sandel",
+        "description": "Sandel",
+        "price": "130.00"
+      },
+      {
+        "productId": "3201",
+        "image": ".src/images/clarks-Navy-Cloudsteppers-Sunmaze-Tide-Sandal.jpg ",
+        "brand": "Clarks",
+        "name": "Sunmaze Tide Flip Flop",
+        "description": "Sandel",
+        "price": "65.00"
+      },
+      {
+        "productId": "3202",
+        "image": ".src/images/k&kGenna.jpg alt= ProductId-3202",
+        "brand": "Kelly & Katie",
+        "name": "Genna",
+        "description": "High Heel",
+        "price": "90.00"
+      },
+      {
+        "productId": "3203",
+        "image": ".src/images/K&KHailee.jpg ",
+        "brand": "Kelly & Katie",
+        "name": "Hailee Dress Sandel",
+        "description": "High Heel",
+        "price": "90.00"
+      },
+      {
+        "productId": "3204",
+        "image": ".src/images/blowfish_chelseabootie.jpg ",
+        "brand": "Blowfish",
+        "name": "Beam Chelsea Bootie",
+        "description": "Boot",
+        "price": "110.00"
+      },
+      {
+        "productId": "3205",
+        "image": ".src/images/taxiWinteranklebootie.jpg ",
+        "brand": "Taxi",
+        "name": "Linda Waterproof Winter Ankel Boot",
+        "description": "Boot",
+        "Price": "125.00"
+      },
+      {
+        "productId": "3206",
+        "image": ".src/images/asics_jolt.jpg ",
+        "brand": "Asics",
+        "name": "Jolt 4 Running Shoe",
+        "description": "Athletic Shoe",
+        "price": "89.99"
+      },
+      {
+        "productId": "3207",
+        "image": ".src/images/converse_CTLift_sneaker.jpg ",
+        "brand": "Converse",
+        "name": "Woman's Chuck Taylor All Star Lift Sneaker",
+        "description": "Athletic Shoe",
+        "price": "84.96"
+      },
+      {
+        "productId": "3208",
+        "image": ".src/images/clarkswestlynnLoafer.jpg ",
+        "brand": "Clarks",
+        "name": "Westlynn Beela Loafer",
+        "description": "Flat",
+        "price": "110.00"
+      },
+      {
+        "productId": "3209",
+        "image": ".src/images/BOBSBCuteSneaker.jpg ",
+        "brand": "BOBS by Skechers",
+        "name": "BOBS B Cute Slip-on",
+        "description": "Flat",
+        "price": "69.99"
+      },
+      {
+        "productId": "3500",
+        "image": ".src/images/birkenstock_Arizon.jpg ",
+        "brand": "Birkenstock",
+        "name": "Arizona Sandel",
+        "description": "Sandel",
+        "price": "139.96"
+      },
+      {
+        "productId": "3501",
+        "image": ".src/images/birkenstockLowBend.jpg",
+        "brand": "Birkenstock",
+        "name": "Bend Sneaker",
+        "description": "Athletic Shoe",
+        "price": "199.96"
+      },
+      {
+        "productId": "3502",
+        "image": ".src/images/colehann_oxford.jpg ",
+        "brand": "Cole Hann",
+        "name": "Grand Cap Toe Oxford",
+        "description": "Dress Shoe",
+        "price": "139.99"
+      },
+      {
+        "productId": "3503",
+        "image": ".src/images/clarks_tilden_oxford.jpg ",
+        "brand": "Clarks",
+        "name": "Tilden Oxford",
+        "description": "Dress Shoe",
+        "price": "130.00"
+      },
+      {
+        "productId": "3504",
+        "image": ".src/images/chuck-taylor-all-star-high-street-high-top-sneaker.jpg ",
+        "brand": "Converse",
+        "name": "Men's Chuck Taylor All Star High Street Sneaker",
+        "description": "Athletic Shoe",
+        "price": "74.96"
+      },
+      {
+        "productId": "3505",
+        "image": ".src/images/columbia_norton_hikingboot.jpg ",
+        "brand": "Columbia",
+        "name": "Norton ridge Plus waterproof Hiking Boot",
+        "description": "Boot",
+        "price": "159.99"
+      },
+      {
+        "productId": "3506",
+        "image": ".src/images/merrell_runningshoe.jpg",
+        "brand": "Merrell ",
+        "name": "Running Shoe",
+        "description": "Athletic Shoe",
+        "price": "160.00"
+      }
+    ]
+  }
+   

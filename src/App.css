@@ -114,3 +114,102 @@ nav a:hover {
   }
 
 }
+
+
+
+
+/* Banner Styling */
+#Bannerimg {
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  position: relative;
+}
+
+#Bannertxt {
+  position: relative;
+  font-family: Playfair Display;
+  font-size: 4vw;
+  margin-top: -35vw;
+  width: 300px;
+  margin-left: 70px;
+  z-index: 2;
+  color: #BF011E;
+}
+#ShopNow {
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 2.5vw;
+  position: relative;
+  z-index: 2;
+  color: white;
+}
+#ShopBox {
+  margin-left: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  background-color: #282c34;
+  z-index: 3;
+  width: 200px;
+  height: 50px;
+  border-radius: 15px;
+}
+@media screen and (max-width: 768px) {
+  #Bannertxt {
+    width: 100px;
+  }
+  #ShopNow {
+    font-size: 2.5vw;
+  }
+  #ShopBox {
+    width: 100px;
+    height: 30px;
+  }
+}
+
+
+
+
+.scrollbox {
+  width: 200px;
+  margin-left: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+}
+.scrollbox h3 {
+  margin-top: -15px;
+  font-size: 10pt;
+}
+.scrollbox h2 {
+  font-size: 15pt;
+}
+.scrollimgs {
+  width: 150px;
+  height: 90px;
+  margin-right: 10px;
+  
+}
+#HomeMensSection {
+  margin-top: 200px;
+}
+#MenScroll {
+  display: flex;
+  overflow-x: scroll;
+  width: 100%;
+  background-color: #BF011E;
+
+}
+
+
+#HomeWomensSection {
+  margin-top: 500000px;
+}
+#WomenScroll {
+  display: flex;
+  overflow-x: scroll;
+  width: 100%;
+  background-color: blue;
+}

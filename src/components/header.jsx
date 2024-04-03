@@ -6,9 +6,9 @@ const header = () => {
         <h1>Smart Sole</h1>
         <nav>
             <ul>
-                <li><a href="#">Home</a></li>
-                <li><a href="#">Womens</a></li>
-                <li><a href="#">Mens</a></li>
+                <li>Home</li>
+                <li>Womens</li>
+                <li>Mens</li>
             </ul>
         </nav>
 
