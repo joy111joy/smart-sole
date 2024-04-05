@@ -1,14 +1,16 @@
 import 'primeicons/primeicons.css';
+import { Link } from 'react-router-dom';
 
-const header = () => {
+
+const Header = () => {
   return (
     <header>
         <h1>Smart Sole</h1>
         <nav>
             <ul>
-                <li>Home</li>
-                <li>Womens</li>
-                <li>Mens</li>
+            <li><Link to="/">Home</Link></li>
+            <li><Link to="/men">Men's Products</Link></li>
+            <li><Link to="/women">Women's Products</Link></li>
             </ul>
         </nav>
 
@@ -17,4 +19,4 @@ const header = () => {
   )
 }
 
-export default header
+export default Header

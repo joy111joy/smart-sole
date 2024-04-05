@@ -63,7 +63,6 @@ nav {
 nav ul {
   display: flex;
   list-style: none;
-  justify-content:space-around;
 
 }
 nav li {
@@ -142,6 +141,7 @@ nav a:hover {
   position: relative;
   z-index: 2;
   color: white;
+  text-decoration: none;
 }
 #ShopBox {
   margin-left: 70px;
@@ -259,4 +259,24 @@ footer {
 }
 footer h1 {
   font-size: 30pt;
+}
+
+
+
+
+
+#productlist h2 {
+  font-family: "Josefin Sans", sans-serif;
+  font-size: 2em;
+  margin-left: 70px;
+}
+
+#productcont {
+  width: 80%;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 100px;
+  margin-bottom: 100px;
+
 }
