@@ -2,7 +2,7 @@
     "product": [
       {
         "productId": "3200",
-        "image": ".src/images/clarks_laurieann.jpg ",
+        "image": "src/images/clarks_laurieann.png",
         "brand": "Clarks",
         "name": "Laurieann Sandel",
         "description": "Sandel",
@@ -10,7 +10,7 @@
       },
       {
         "productId": "3201",
-        "image": ".src/images/clarks-Navy-Cloudsteppers-Sunmaze-Tide-Sandal.jpg ",
+        "image": ".src/images/clarks-Navy-Cloudsteppers-Sunmaze-Tide-Sandal.png ",
         "brand": "Clarks",
         "name": "Sunmaze Tide Flip Flop",
         "description": "Sandel",
